@@ -12,8 +12,8 @@ There isn’t probably a “right" answer to this question. However, we can lear
 We will **not** be replicating these. But we will look at these papers to understand how to communicate quantitative results in political science academic writing:
 Future assignment(s) will ask you to answer questions such as:
 
-	- What statistical methods/tests are the authors using to test their hypotheses?
-	- Do they present their findings and the results of statistical tests using tables? 
-	- And using plots?
-	- What type of plots? (e.g. Treatment Effects, First Difference or other Standardized Coefficients, Predicted Values-Probabilities, etc.).
-	- How do they describe their findings? How do they interpret the coefficients of their models and the substantive effect that their covariates of interest have on the dependent variable? Copy & Paste specific sentences.
+- What statistical methods/tests are the authors using to test their hypotheses?
+- Do they present their findings and the results of statistical tests using tables? 
+- And using plots?
+- What type of plots? (e.g. Treatment Effects, First Difference or other Standardized Coefficients, Predicted Values-Probabilities, etc.).
+- How do they describe their findings? How do they interpret the coefficients of their models and the substantive effect that their covariates of interest have on the dependent variable? Copy & Paste specific sentences.
