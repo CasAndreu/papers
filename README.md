@@ -1,4 +1,5 @@
-# papers
+# Sample of Quantitative Political Science Papers
+
 Interpreting and presenting research findings is not an easy business. On the one hand, as researchers we need to be methodologically accurate when discussing the substantive implications of our findings. On the other hand, we should also aim for a not-too-technical tone so we can reach a larger audience. Then, what is the “right” way to do it? 
 
 There isn’t probably a “right" answer to this question. However, we can learn from how researchers who recently published in top journals do it. The file `papers.csv` in this repository contains a list of all the articles published in APSR (American Political Science Review), AJPS (American Journal of Political Science), and IO (International Organization) in 2015 and beginning of 2016. 
